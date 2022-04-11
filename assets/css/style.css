@@ -330,7 +330,7 @@ body{
     cursor: pointer;
     }
     .strah:checked+label::before {
-    background-image: url("../img/vector.svg");
+    background-image: url("../img/Vector.svg");
     }
     /*Редактирование текста*/
     .text_strah{
@@ -373,7 +373,7 @@ body{
     cursor: pointer;
     }
     .tamoj:checked+label::before {
-    background-image: url("../img/vector.svg");
+    background-image: url("../img/Vector.svg");
     }
     /*Редактирование текста*/
     .text_tamoj{
