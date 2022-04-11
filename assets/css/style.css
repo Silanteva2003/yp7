@@ -327,6 +327,7 @@ body{
     background-position: center center;
     background-size: 50% 50%;
     background-color: #FFFFFF;
+    cursor: pointer;
     }
     .strah:checked+label::before {
     background-image: url("../img/vector.svg");
@@ -369,6 +370,7 @@ body{
     background-position: center center;
     background-size: 50% 50%;
     background-color: #FFFFFF;
+    cursor: pointer;
     }
     .tamoj:checked+label::before {
     background-image: url("../img/vector.svg");
